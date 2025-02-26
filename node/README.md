@@ -1,0 +1,4 @@
+- deps: npm i
+- quote: npm run quote
+- build: npm run build
+- full: npm run full

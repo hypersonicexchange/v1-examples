@@ -1,0 +1,4 @@
+- deps/comp: cargo build
+- quote: cargo run --bin quote
+- build: cargo run --bin buildtx
+- full: cargo run --bin full

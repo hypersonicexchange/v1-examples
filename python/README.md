@@ -1,0 +1,4 @@
+- deps: pip install -r requirements.txt
+- quote: python3 1_quote.py
+- build: python3 2_build.py
+- full: python3 3_full.py
