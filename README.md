@@ -11,9 +11,9 @@ Integrate Hypersonic Smart Order Routing API not only enables to offer your user
 
 ## Get started with Hypersonic API
 
-- [Node](https://docs.hypersonic.exchange/integrate/node/introduction)
-- [Python](https://docs.hypersonic.exchange/integrate/python/introduction)
-- [Rust](https://docs.hypersonic.exchange/integrate/rust/introduction)
+- [Node](./node/README.md)
+- [Python](./python/README.md)
+- [Rust](./rust/README.md)
 
 ## Examples
 
