@@ -19,15 +19,15 @@ Integrate Hypersonic Smart Order Routing API not only enables to offer your user
 
 | Lang | Code snippet | Description |
 |--------|-------|-------------|
-| Node |  [`node/src/quote.ts`](./node/src/1_quote.ts) | Get a `quoteData` including the best route for a swap. |
-| Node |  [`node/src/build.ts`](./node/src/2_build.ts) | Get an encoded tx to be executed from a `quoteData`. |
-| Node |  [`node/src/full.ts`](./node/src/3_full.ts) | Full example demonstrating a complete usage w/ Node. |
-| Python |  [`python/src/quote.py`](./python/src/1_quote.py) | Get a `quoteData` including the best route for a swap. |
-| Python |  [`python/src/build.py`](./python/src/2_build.py) | Get an encoded tx to be executed from a `quoteData`. |
-| Python |  [`python/src/full.py`](./python/src/3_full.py) | Full example demonstrating a complete usage w/ Python. |
-| Rust |  [`rust/src/quote.rs`](./rust/src/1_quote.rs) | Get a `quoteData` including the best route for a swap. |
-| Rust |  [`rust/src/build.rs`](./rust/src/2_build.rs) | Get an encoded tx to be executed from a `quoteData`. |
-| Rust |  [`rust/src/full.rs`](./rust/src/3_full.rs) | Full example demonstrating a complete usage w/ Rust. |
+| Node |  [`node/quote.ts`](./node/1_quote.ts) | Get a `quoteData` including the best route for a swap. |
+| Node |  [`node/build.ts`](./node/2_build.ts) | Get an encoded tx to be executed from a `quoteData`. |
+| Node |  [`node/full.ts`](./node/3_full.ts) | Full example demonstrating a complete usage w/ Node. |
+| Python |  [`python/quote.py`](./python/1_quote.py) | Get a `quoteData` including the best route for a swap. |
+| Python |  [`python/build.py`](./python/2_build.py) | Get an encoded tx to be executed from a `quoteData`. |
+| Python |  [`python/full.py`](./python/3_full.py) | Full example demonstrating a complete usage w/ Python. |
+| Rust |  [`rust/quote.rs`](./rust/1_quote.rs) | Get a `quoteData` including the best route for a swap. |
+| Rust |  [`rust/build.rs`](./rust/2_build.rs) | Get an encoded tx to be executed from a `quoteData`. |
+| Rust |  [`rust/full.rs`](./rust/3_full.rs) | Full example demonstrating a complete usage w/ Rust. |
 
 ## Integration Flow
 
